@@ -18,5 +18,6 @@ sudo apt-get -y install python-nose
 
 sudo apt-get -y install leiningen
 sudo apt-get -y install r-base
+echo 'install.packages(c("ggplot2", "scales", "ggmap", "googleVis", "igraph"), repos="http://cran.us.r-project.org")' | sudo R --no-save
 
 exit 0
