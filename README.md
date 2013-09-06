@@ -30,7 +30,7 @@ All datasets were publically available and taken from [GEO Omnibus][geo]. After 
 3. Authors
 ----------
 
- - [Andy][andy] Chiang (Columbia University)
+ - [Andy Chiang][andy] (Columbia University)
  - Rebecca Mathew (The University of Chicago)
 
 
