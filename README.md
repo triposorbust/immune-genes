@@ -1,7 +1,5 @@
 Identify Immune Cell Genes
 ==========================
-So this is just a microarray analysis
--------------------------------------
 
 
 A standalone repository to make publically available a microarray analysis for identifying immune-related genes in Affymextrix Mouse 2.0 Microarrays. Cell types involved are Th1, Th2, Th17, and Tfh.
