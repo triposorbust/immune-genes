@@ -8,11 +8,13 @@ A standalone repository to make publically available a microarray analysis for i
 0. Quickstart
 -------------
 
-Virtual Machine and provisioning files are provided to provide identical computation environment for re-computing this analysis. Script `run.sh` automates the running of the three scripts.
+Virtual Machine and provisioning files are provided to enable rebuilding identical computation environment for running this analysis. Script `run.sh` automates the running of the three scripts.
+
+"If we can compute your experiment now, anyone can recompute it 20 years from now."
 
 
 1. [Recomputation][recomp]
-----------------
+--------------------------
 
 This repository is maintained with [recomputability][recomp] in mind. VM-support via `vagrant` is provided to minimize platform-specific effects on results. Scripts are provided that automate analysis so that results can be reproduced with minimal effort. The expected outcome of the analysis is:
 
