@@ -1,3 +1,5 @@
+immune-genes.tsv
+errors.log
 .vagrant/*
 data/*
 *.pyc
