@@ -49,6 +49,16 @@ All datasets were publically available and taken from [GEO Omnibus][geo]. After 
  - Rebecca Mathew (The University of Chicago)
 
 
+5. License
+----------
+
+Copyright &copy; 2013, [Andy Chiang][andy]. All rights reserved.
+
+This software is distributed under the MIT License.
+
+
+
+
 [recomp]: http://www.recomputation.org/
 [trm]: http://arxiv.org/abs/1304.3674
 [geo]: http://www.ncbi.nlm.nih.gov/geo/
