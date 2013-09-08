@@ -20,4 +20,7 @@ sudo apt-get -y install leiningen
 sudo apt-get -y install r-base
 echo 'install.packages(c("ggplot2", "scales", "ggmap", "googleVis", "igraph"), repos="http://cran.us.r-project.org")' | sudo R --no-save
 
+touch ~/.matplotlib/matplotlibrc
+echo "backend: Agg" >> ~/.matplotlib/matplotlibrc
+
 exit 0

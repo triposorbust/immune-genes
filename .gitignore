@@ -2,6 +2,7 @@ immune-genes.tsv
 errors.log
 .vagrant/*
 .temp/*
+plot/*
 data/*
 *.pyc
 *~
